@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name": "Syed Sameer",
+    "occupation": "ReactJS Developer && Analyst @JP Morgan Chase",
+    "description": "Software Engineer by Day, Programmer && Freelancer by Night.",
+    "image": "sam.jpg",
+    "bio": "My name is Syed Sameer, I'm a ReactJS Developer. Currently I'm working at JPMorgan Chase & Co",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "syedsameer538@gmail.com",
+    "phone": "+91 9738482164",
+    "address": {
+      "street": "18 1st Main Arrokyamma Layout",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560045"
+    },
+    "website": "https://www.linkedin.com/in/syed-sameer538/",
+    "resumedownload": "https://www.linkedin.com/in/syed-sameer538/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/syed.sameer.121772/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/syed-sameer538/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/samsyd_m/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/syedsameer538",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "New Horizon College of Engineering",
+        "degree": "Bachelors in Electronics and Communications",
+        "graduated": "June 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "JPMorgan Chase & Co",
+        "title": "Software Engineer",
+        "years": "Jan 2021 - Present",
+        "description": "Application developer specializing in web development."
+      },
+      {
+        "company": "Accenture",
+        "title": "Application Development Analyst",
+        "years": "Feb 2018 - Dec 2020",
+        "description": "React JS developer specializing in web development with three years of experience."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AWS Associate Developer",
+        "category": "AWS CloudFront with Serverless Architecture",
+        "image": "AWS.png",
+        "url": "https://www.youracclaim.com/badges/129266d1-f32c-4ca4-8553-535dc3986760/linked_in"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Syed is a Jovial person to spend time with always.",
+        "user": "Mayank, TL"
+      }
+    ]
+  }
+}
