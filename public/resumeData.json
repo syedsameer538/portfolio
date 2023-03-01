@@ -85,9 +85,15 @@
   "portfolio": {
     "projects": [
       {
+        "title": "AWS Cloud Practitioner",
+        "category": "AWS CloudFront with Serverless Architecture",
+        "image": "aws_cloud_prac.png",
+        "url": "https://www.credly.com/badges/a8fddce5-0e43-427d-8966-2048e7c811fe/public_url"
+      },
+      {
         "title": "AWS Associate Developer",
         "category": "AWS CloudFront with Serverless Architecture",
-        "image": "AWS.png",
+        "image": "aws_dev_assoc.png",
         "url": "https://www.youracclaim.com/badges/129266d1-f32c-4ca4-8553-535dc3986760/linked_in"
       }
     ]
